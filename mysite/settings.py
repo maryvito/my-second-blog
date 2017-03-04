@@ -25,7 +25,7 @@ SECRET_KEY = 'hfleptfnm3ffgz$ab1)mfha#7n*fm-_q^rd-3@o=lr0+_kvjb4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['maryvito.pythonanywhere.com', '127.0.0.1:8000']
+ALLOWED_HOSTS = ['maryvito.pythonanywhere.com', '127.0.0.1']
 
 
 # Application definition
